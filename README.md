@@ -1,1 +1,2 @@
 # email_simulater
+This program simulates a simple email application that allows the user to view and interact with a list of emails. It provides a menu of options that allow the user to view a list of email subjects, read an email, mark it as read or delete it, and view a list of unread emails. The program accomplishes this by defining a Email class and using it to create email objects that are stored in an Inbox list. The program then provides a menu-driven interface that allows the user to interact with the emails in the inbox by calling the appropriate functions.
